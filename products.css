@@ -1,0 +1,104 @@
+body{
+width: 1000px
+max-height:1000px
+margin: 0 auto;
+font-family:30pt/1.5em Copperplate, Georgia, Garamond;
+background: #00FFCC;
+}
+
+header{
+}
+
+h1{
+font-size: 40px;
+font-family: Copperplate, Monaco; text-align: left;
+color: #000000
+}
+
+h2{
+font-size: 30px;
+font-family: Copperplate, Monaco; text-align: left;
+color: #330066
+}
+
+#intro-image {
+width:200px;
+max-height:400px;
+float:right;
+margin:10px
+}
+
+
+h3{
+font-size:40px;
+font-family: Copperplate, Monaco;
+color: #990066;
+}
+
+#closeup {
+width:300px;
+max-height: 400px;
+margin:10px;
+}
+#waterfilled {
+width:300px;
+max-height: 400px;
+margin:10px;
+}
+#child {
+width:300px;
+max-height: 400px;
+margin:10px;
+}
+#twokids {
+width:300px;
+max-height: 400px;
+margin:10px;
+}
+
+section{
+float:left;
+width:600px;
+min-height:480px
+font-size:30px;
+padding-right:20px;
+}
+
+aside{
+float:left;width:600px;
+min-height:480px;
+font-size:20px;
+padding-right:20px;
+padding-top: 20px;
+}
+
+nav{
+display:block;
+}
+
+ul{
+list-style-type:none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #00CCFF;
+border-radius:20px;}
+
+li a {
+display: block;
+color: #FFFFFF;
+text-align:center;
+padding:14px 16px;
+text-decoration:none;
+}
+li a:hover:not(.active){
+background-color: #D3D3D3;
+}
+.active {
+background-color: #9966FF;
+}
+
+
+
+
+
